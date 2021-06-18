@@ -1,0 +1,22 @@
+
+
+body {
+  font-family: "tahoma";
+  background-color: rgb(55, 81, 105);
+  font-color:rgb(0,0,0);
+  font-size: 1.0em;
+}
+
+
+  h1 {
+  text-align: center;
+  font-size: 3.5em;
+  font-color: azure;
+  font-family: "arial";
+  text-decoration: underline;
+}
+
+img {
+  box-shadow: 0 20px 20px rgba(0,0,0,0.19), 8px 8px rgba(0,0,0,0.23);
+  height: 140px;
+}
